@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Общая теория систем.md",
+                "file": "Литература по системному анализу.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Общая теория систем"
+              "title": "Литература по системному анализу"
             }
           },
           {
@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Литература по системному анализу.md",
+                "file": "Общая теория систем.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Литература по системному анализу"
+              "title": "Общая теория систем"
             }
           }
         ],
@@ -210,8 +210,9 @@
   },
   "active": "5ab1de814fa8f203",
   "lastOpenFiles": [
-    "Общая теория систем.md",
     "Литература по системному анализу.md",
+    "Общая теория систем.md",
+    "attachments/Pasted image 20250503204954.png",
     "attachments/Pasted image 20250503183336.png",
     "attachments",
     "Людвиг фон Берталанфи.md",
