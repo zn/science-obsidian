@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,10 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ab1de814fa8f203",
+  "active": "c422a351bc00d6fd",
   "lastOpenFiles": [
-    "Литература по системному анализу.md",
     "Общая теория систем.md",
+    "Литература по системному анализу.md",
     "attachments/Pasted image 20250503204954.png",
     "attachments/Pasted image 20250503183336.png",
     "attachments",
