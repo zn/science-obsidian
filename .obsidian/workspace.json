@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Литература по системному анализу.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Литература по системному анализу"
+              "title": "Welcome"
             }
           },
           {
@@ -32,27 +32,17 @@
             }
           },
           {
-            "id": "b7d988310ea32d3c",
+            "id": "c422a351bc00d6fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Литература по системному анализу.md",
+                "file": "A Graph Grammar Approach to Software Architecture Verification and Transformation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Литература по системному анализу"
-            }
-          },
-          {
-            "id": "c422a351bc00d6fd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "A Graph Grammar Approach to Software Architecture Verification and Transformation"
             }
           },
           {
@@ -143,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Литература по системному анализу.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Литература по системному анализу"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -162,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Литература по системному анализу.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Литература по системному анализу"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -191,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Литература по системному анализу.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Литература по системному анализу"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -218,13 +208,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7d988310ea32d3c",
+  "active": "c422a351bc00d6fd",
   "lastOpenFiles": [
+    "A Graph Grammar Approach to Software Architecture Verification and Transformation.md",
     "Welcome.md",
     "Общая теория систем.md",
-    "Людвиг фон Берталанфи.md",
     "Литература по системному анализу.md",
-    "Общая теория систем.md",
+    "Людвиг фон Берталанфи.md",
     "attachments/Pasted image 20250503204954.png",
     "attachments/Pasted image 20250503183336.png",
     "attachments",
