@@ -46,6 +46,20 @@
             }
           },
           {
+            "id": "9095210412b8feb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Towards evolvable software architectures based on systems  theoretic stability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Towards evolvable software architectures based on systems  theoretic stability"
+            }
+          },
+          {
             "id": "5ab1de814fa8f203",
             "type": "leaf",
             "state": {
@@ -60,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,11 +222,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c422a351bc00d6fd",
+  "active": "9095210412b8feb9",
   "lastOpenFiles": [
     "A Graph Grammar Approach to Software Architecture Verification and Transformation.md",
-    "Welcome.md",
+    "Towards evolvable software architectures based on systems  theoretic stability.md",
     "Общая теория систем.md",
+    "Welcome.md",
     "Литература по системному анализу.md",
     "Людвиг фон Берталанфи.md",
     "attachments/Pasted image 20250503204954.png",
