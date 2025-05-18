@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9db02882830b1237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "0bc8648dd6f40e77",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "c422a351bc00d6fd",
             "type": "leaf",
             "state": {
@@ -60,6 +36,20 @@
             }
           },
           {
+            "id": "7f33188c3262fc94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cohesion vs Coupling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cohesion vs Coupling"
+            }
+          },
+          {
             "id": "5ab1de814fa8f203",
             "type": "leaf",
             "state": {
@@ -74,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,14 +212,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9095210412b8feb9",
+  "active": "7f33188c3262fc94",
   "lastOpenFiles": [
     "A Graph Grammar Approach to Software Architecture Verification and Transformation.md",
+    "Людвиг фон Берталанфи.md",
+    "Литература по системному анализу.md",
+    "Welcome.md",
+    "Cohesion vs Coupling.md",
     "Towards evolvable software architectures based on systems  theoretic stability.md",
     "Общая теория систем.md",
-    "Welcome.md",
-    "Литература по системному анализу.md",
-    "Людвиг фон Берталанфи.md",
     "attachments/Pasted image 20250503204954.png",
     "attachments/Pasted image 20250503183336.png",
     "attachments",
