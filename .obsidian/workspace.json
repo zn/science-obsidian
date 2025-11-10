@@ -8,7 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9db02882830b1237",
+            "id": "c422a351bc00d6fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Graph Grammar Approach to Software Architecture Verification and Transformation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Graph Grammar Approach to Software Architecture Verification and Transformation"
+            }
+          },
+          {
+            "id": "9095210412b8feb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Towards evolvable software architectures based on systems  theoretic stability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Towards evolvable software architectures based on systems  theoretic stability"
+            }
+          },
+          {
+            "id": "7f33188c3262fc94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,41 +50,17 @@
             }
           },
           {
-            "id": "0bc8648dd6f40e77",
+            "id": "d37a45e377ec872d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Архитектура ПО.md",
+                "file": "Классификация систем.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Архитектура ПО"
-            }
-          },
-          {
-            "id": "72b9d55bb8b84117",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Паттерны проектирования.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Паттерны проектирования"
-            }
-          },
-          {
-            "id": "c422a351bc00d6fd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Классификация систем"
             }
           },
           {
@@ -74,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Литература по системному анализу.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Литература по системному анализу"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -166,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Литература по системному анализу.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Литература по системному анализу"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -195,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Литература по системному анализу.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Литература по системному анализу"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -213,6 +217,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -222,20 +227,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72b9d55bb8b84117",
+  "active": "d37a45e377ec872d",
   "lastOpenFiles": [
-    "Архитектура ПО.md",
-    "Паттерны проектирования.md",
-    "Towards evolvable software architectures based on systems  theoretic stability.md",
-    "Cohesion vs Coupling.md",
-    "A Graph Grammar Approach to Software Architecture Verification and Transformation.md",
-    "Welcome.md",
     "Литература по системному анализу.md",
+    "Классификация систем.md",
+    "Паттерны проектирования.md",
+    "Cohesion vs Coupling.md",
+    "Архитектура ПО.md",
+    "A Graph Grammar Approach to Software Architecture Verification and Transformation.md",
+    "Людвиг фон Берталанфи.md",
+    "Welcome.md",
+    "Towards evolvable software architectures based on systems  theoretic stability.md",
     "Общая теория систем.md",
     "attachments/Pasted image 20250503204954.png",
     "attachments/Pasted image 20250503183336.png",
     "attachments",
-    "Людвиг фон Берталанфи.md",
     "templates/{{title}}.md",
     "templates",
     "Welcome — копия.md",
