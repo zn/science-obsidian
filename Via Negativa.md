@@ -12,4 +12,5 @@ Via negativa - способ мышления через отрицание, ис
 
 ## Связанные источники
 
+- [[Антихрупкость - вещи, которые выигрывают от беспорядка]]
 - [[Via Negativa - The Process of Making Good Decisions By Eliminating Bad Ones]]
