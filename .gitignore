@@ -1,1 +1,14 @@
 .obsidian/workspace.json
+
+# Large local conference recording artifacts
+attachments/facecast-v74579/*.ts
+attachments/facecast-v74579/*.mp4
+attachments/facecast-v74579/*.wav
+attachments/facecast-v74579/*.srt
+attachments/facecast-v74579/*.vtt
+attachments/facecast-v74579/*.m3u8
+attachments/facecast-v74579/page.html
+attachments/facecast-v74579/bundle-*.js
+attachments/facecast-v74579/segments/
+attachments/facecast-v74579/audio/
+attachments/facecast-v74579/asr-work/
