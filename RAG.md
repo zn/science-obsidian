@@ -19,3 +19,4 @@ RAG можно рассматривать как систему управлен
 ## Связанные источники
 
 - [[What Matters in Production RAG]]
+- [[How we built the Microsoft Learn MCP Server]]
