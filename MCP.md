@@ -12,6 +12,9 @@ MCP (Model Context Protocol) - протокол, через который AI-а
 
 В контексте [[Инженерное мастерство|инженерного мастерства]] MCP полезен как практический пример: качество системы зависит не только от модели или backend-сервиса, но и от формы инструмента, описания параметров, обратной совместимости и наблюдения за поведением клиентов.
 
+[[Solving the Identity Crisis for AI Agents]] добавляет к MCP security-перспективу: MCP Gateway может быть не только протокольной границей для tools, но и точкой policy enforcement, redaction, аудита и проверки [[Цепочка акторов|цепочки акторов]].
+
 ## Связанные источники
 
 - [[How we built the Microsoft Learn MCP Server]]
+- [[Solving the Identity Crisis for AI Agents]]
